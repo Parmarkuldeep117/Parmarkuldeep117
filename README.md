@@ -1,5 +1,5 @@
-![One Piece Banner](https://i.imgur.com/XJzWb1H.jpeg)  
-<!-- You can replace the above link with any One Piece banner image you like -->
+
+<img width="1152" height="2048" alt="download" src="https://github.com/user-attachments/assets/526d9adc-2b58-41c6-b2ea-8a4beba1c6eb" />
 
 # 👋 Hi, I'm Kuldeep Parmar  
 💻 **Full-Stack Developer | JavaScript Enthusiast | Tech Explorer**
@@ -44,17 +44,9 @@ I’m passionate about creating **interactive, efficient, and intelligent** web 
 
 ---
 
-## 📊 GitHub Stats
-
-![Kuldeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)  
-
----
-
 ## 🌐 Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)  
-💻 [Portfolio Website](https://your-portfolio-link.com)  
+💼 [LinkedIn](www.linkedin.com/in/kuldeep-parmar-079b08336)  
 📧 **Email:** parmrkuldeep1280@gmail.com  
 
 ---
