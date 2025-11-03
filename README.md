@@ -1,7 +1,3 @@
-<table>
-  <tr>
-    <td width="60%">
-      
 # 👋 Hi, I'm Kuldeep Parmar  
 💻 **Full-Stack Developer | JavaScript Enthusiast | Tech Explorer**
 
@@ -9,7 +5,7 @@
 > — **Monkey D. Luffy ☠️**  
 
 Welcome to my GitHub!  
-I’m passionate about creating **interactive, efficient, and intelligent** web applications using **JavaScript, Node.js, and Express.js** — and diving deep into **Machine Learning** projects.
+I’m passionate about creating **interactive, efficient, and intelligent** web applications using **JavaScript, Node.js, React.js, and Next.js** — and exploring **Machine Learning** projects.
 
 ---
 
@@ -17,6 +13,8 @@ I’m passionate about creating **interactive, efficient, and intelligent** web 
 
 **Languages & Frameworks**
 - 🟨 JavaScript (ES6+)
+- ⚛️ React.js
+- ⚡ Next.js
 - ⚙️ Node.js & Express.js
 - 🧩 HTML5, CSS3, TailwindCSS
 - 🧠 Python (for ML & Data Science)
@@ -54,10 +52,3 @@ I’m passionate about creating **interactive, efficient, and intelligent** web 
 
 ⭐ _“Code. Learn. Innovate. Repeat.”_  
 ⚓ _Set sail toward your dreams — no matter how rough the sea gets!_ 🏴‍☠️  
-
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github.com/user-attachments/assets/526d9adc-2b58-41c6-b2ea-8a4beba1c6eb" alt="One Piece Crew" width="100%" />
-    </td>
-  </tr>
-</table>
