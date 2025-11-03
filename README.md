@@ -1,26 +1,15 @@
-<!-- 🌊 One Piece Anime Background Section -->
-<div align="center" style="
-  background: url('https://github.com/user-attachments/assets/526d9adc-2b58-41c6-b2ea-8a4beba1c6eb') no-repeat center center fixed;
-  background-size: cover;
-  color: white;
-  padding: 60px 20px;
-  text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
-  border-radius: 15px;
-">
+<table>
+  <tr>
+    <td width="60%">
+      
+# 👋 Hi, I'm Kuldeep Parmar  
+💻 **Full-Stack Developer | JavaScript Enthusiast | Tech Explorer**
 
-<h1>👋 Hi, I'm Kuldeep Parmar</h1>
-<h3>💻 Full-Stack Developer | JavaScript Enthusiast | Tech Explorer</h3>
-
-<blockquote>
-  <i>"When you decide to go to sea, you must be prepared to face storms."</i><br>
-  — <b>Monkey D. Luffy ☠️</b>
-</blockquote>
+> _"When you decide to go to sea, you must be prepared to face storms."_  
+> — **Monkey D. Luffy ☠️**  
 
 Welcome to my GitHub!  
-I’m passionate about creating <b>interactive, efficient, and intelligent</b> web applications using <b>JavaScript, Node.js, and Express.js</b> —  
-and diving deep into <b>Machine Learning</b> projects.
-
-</div>
+I’m passionate about creating **interactive, efficient, and intelligent** web applications using **JavaScript, Node.js, and Express.js** — and diving deep into **Machine Learning** projects.
 
 ---
 
@@ -64,4 +53,11 @@ and diving deep into <b>Machine Learning</b> projects.
 ---
 
 ⭐ _“Code. Learn. Innovate. Repeat.”_  
-⚓ _Set sail toward your dreams — no matter how rough the sea gets!_ 🏴‍☠️
+⚓ _Set sail toward your dreams — no matter how rough the sea gets!_ 🏴‍☠️  
+
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github.com/user-attachments/assets/526d9adc-2b58-41c6-b2ea-8a4beba1c6eb" alt="One Piece Crew" width="100%" />
+    </td>
+  </tr>
+</table>
