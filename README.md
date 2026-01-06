@@ -1,26 +1,26 @@
 # 👋 Hi, I'm Kuldeep Parmar  
-💻 **Full-Stack Developer | JavaScript Enthusiast | Tech Explorer**
+
+💻 **Full-Stack Developer | JavaScript Enthusiast | Tech Explorer**  
 
 > _"When you decide to go to sea, you must be prepared to face storms."_  
 > — **Monkey D. Luffy ☠️**  
 
 Welcome to my GitHub!  
-I’m passionate about creating **interactive, efficient, and intelligent** web applications using **JavaScript, Node.js, React.js, and Next.js** — and exploring **Machine Learning** projects.
+I love building **interactive, efficient, and intelligent** web applications using **JavaScript, Node.js, React.js, Next.js**, and I enjoy exploring **Machine Learning** projects.
 
 ---
 
 ## ⚡ Tech Stack
 
-**Languages & Frameworks**
-- 🟨 JavaScript (ES6+)
-- ⚛️ React.js
-- ⚡ Next.js
-- ⚙️ Node.js & Express.js
-- 🧩 HTML5, CSS3, TailwindCSS
-- 🧠 Python (for ML & Data Science)
-- 🗄️ MongoDB & MySQL
+**Languages & Frameworks**  
+- 🟨 JavaScript (ES6+)  
+- ⚛️ React.js  
+- ⚡ Next.js  
+- ⚙️ Node.js & Express.js  
+- 🧩 HTML5, CSS3, TailwindCSS  
+- 🗄️ MongoDB & MySQL  
 
-**Tools & Technologies**
+**Tools & Technologies**  
 - 🌍 RESTful APIs  
 - 💾 File System (fs) & Path modules  
 - 🧱 JSON / Fetch API / Async-Await  
@@ -31,24 +31,41 @@ I’m passionate about creating **interactive, efficient, and intelligent** web 
 
 ## 🧑‍💻 Featured Projects
 
-📷 **Face Recognition Attendance System**  
-> Machine Learning + OpenCV + Python-based system for automatic attendance tracking.  
-> 🧠 Integrating intelligence into daily workflows.
+### 💬 Fullstack Chat Application
+> Real-time chat app with authentication, media uploads, and responsive design.  
+- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.IO, TailwindCSS  
+- **Live Demo:** [https://fullstack-chatapp-wudv.onrender.com](https://fullstack-chatapp-wudv.onrender.com)
 
-🎧 **Music Player with Playlist**  
-> Built using HTML, CSS, and JavaScript featuring DOM manipulation and event handling.  
+**Screenshots:**  
+Login / Signup:  
+![Login Page](https://raw.githubusercontent.com/Parmarkuldeep117/fullstack-ChatApp/main/screenshots/login-page.png)  
+![Signup Page](https://raw.githubusercontent.com/Parmarkuldeep117/fullstack-ChatApp/main/screenshots/signup-page.png)  
 
-🛒 **Shopping Cart System (Dynamic UI)**  
-> Created using JS, Node.js, and JSON — includes night mode, quantity tracking, and localStorage persistence.  
+Chat & Messages:  
+![Chat UI](https://raw.githubusercontent.com/Parmarkuldeep117/fullstack-ChatApp/main/screenshots/user-message-page.png)  
+
+User / Profile / Settings:  
+![User Home](https://raw.githubusercontent.com/Parmarkuldeep117/fullstack-ChatApp/main/screenshots/user-home-page.png)  
+![User Profile](https://raw.githubusercontent.com/Parmarkuldeep117/fullstack-ChatApp/main/screenshots/user-profile-page.png)  
+![Settings Page 1](https://raw.githubusercontent.com/Parmarkuldeep117/fullstack-ChatApp/main/screenshots/settings-page1.png)  
+![Settings Page 2](https://raw.githubusercontent.com/Parmarkuldeep117/fullstack-ChatApp/main/screenshots/settings-page2.png)  
+
+---
+
+### 🎧 Music Player with Playlist
+> Built using **HTML, CSS, JavaScript** featuring DOM manipulation and event handling.  
+
+### 🛒 Shopping Cart System (Dynamic UI)
+> Built using **JS, Node.js, and JSON** — includes night mode, quantity tracking, and localStorage persistence.  
 
 ---
 
 ## 🌐 Connect With Me
 
 💼 [LinkedIn](https://www.linkedin.com/in/kuldeep-parmar-079b08336)  
-📧 **Email:** parmrkuldeep1280@gmail.com  
+📧 Email: parmrkuldeep1280@gmail.com  
 
 ---
 
 ⭐ _“Code. Learn. Innovate. Repeat.”_  
-⚓ _Set sail toward your dreams — no matter how rough the sea gets!_ 🏴‍☠️  
+⚓ _Set sail toward your dreams — no matter how rough the sea gets!_ 🏴‍☠️
